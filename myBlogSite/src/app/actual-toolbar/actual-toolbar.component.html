@@ -1,0 +1,38 @@
+
+<mat-toolbar  class="sticky">
+    <mat-toolbar-row fxLayoutAlign="space-between center">
+      <div fxLayout="row">
+        <button mat-button>
+          <mat-icon>fast_forward</mat-icon>
+          <span class="logo" [routerLink]="['home']" >Dexterity.com</span>
+        </button>
+    
+        <div *ngIf="!deviceXs" fxLayout="row">
+         
+          <button class="fontforrow" class="heading" [routerLink]="['home/freshers']" mat-button >Freshers</button>
+          <button class="fontforrow" class="heading" mat-button [routerLink]="['home/java']" >Java</button>
+          <button  class="fontforrow" class="heading"mat-button [routerLink]="['home/springboot']">SpringBoot</button>
+          <button  class="fontforrow" class="heading"mat-button [routerLink]="['youwrite']">Angular 6+ </button>
+          <button  class="fontforrow" class="heading" [routerLink]="['about']" mat-button>Interview Exp</button>
+          <!-- <button  class="fontforrow" class="heading" [routerLink]="['about']" mat-button>Consulting </button> -->
+        </div>
+      </div>
+      <div>
+      
+      </div>
+    </mat-toolbar-row>
+    <mat-toolbar-row *ngIf="deviceXs" fxLayoutAlign="space-between end">
+       
+      <button class="fontforrow" class="heading" [routerLink]="['home/freshers']" mat-button >Freshers</button>
+      <button class="fontforrow" class="heading" mat-button [routerLink]="['home/java']" >Java</button>
+      
+      <button  class="fontforrow" class="heading"mat-button [routerLink]="['home/springboot']">SpringBoot</button>
+
+      <button  class="fontforrow" class="heading"mat-button [routerLink]="['youwrite']">Angular 6+ </button>
+      <button  class="fontforrow" class="heading" [routerLink]="['about']" mat-button>Interview Exp</button>
+      <!-- <button  class="fontforrow" class="heading" [routerLink]="['about']" mat-button>Consulting </button> -->
+    </mat-toolbar-row>
+  </mat-toolbar>
+
+
+ 

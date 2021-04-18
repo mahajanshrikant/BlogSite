@@ -1,0 +1,36 @@
+
+
+
+ .sticky {
+    padding: 0px;
+    position: fixed;
+    width: 100%;
+    top: 0px; 
+  
+    z-index: 10;
+    
+  }
+  
+  .logo {
+    padding: 0px 5px;
+    font-size: 20px;
+  font-weight: bold;
+    font-family: "Euclid Circular A", Arial, sans-serif;
+  }
+  .logo:hover {
+    color:#ff7f50;
+  
+    }
+  .fontforrow{
+    font-size: 15px;
+    font-weight: lighter;
+    font-family: "Nunito, Lato, sans-serif";
+  }
+  
+  .heading{
+    font-size: 15px;
+  }
+  .heading:hover {
+    color:#ff7f50;
+  
+    }

@@ -1,0 +1,170 @@
+
+
+
+ .example-card {
+    height: 234px;
+    width: 498px;
+    background-color: white;
+   
+  }
+
+  .example-card1 {
+     /* height: 234px; */
+     height: 318px;
+    background-color: white;
+   
+  }
+  .example-cardnew{
+    padding-left: 142px;
+    padding-right: 350px;
+  }
+  
+  
+
+  .card-container {
+   
+  
+    
+    color: white;
+  
+    display: flex;
+    justify-content: center;
+  }
+
+  .card-container1 {
+   
+
+  
+    
+    color: white;
+   
+    display: flex;
+    
+ 
+  }
+
+  .card-container2 {
+    
+
+    
+    
+    color: white;
+ 
+    display: flex;
+    
+
+  }
+
+  .card-container3{
+  
+
+
+   
+    color: white;
+   
+    display: flex;
+    
+    
+  }
+
+
+
+  .card-container4{
+    
+
+
+   
+    color: white;
+ 
+    display: flex;
+    
+    
+  }
+
+  .card-container5{
+    
+
+
+    
+    color: white;
+ 
+    display: flex;
+    
+    
+  }
+
+
+
+
+
+
+
+
+
+/* .cardspacer{
+    padding-inline-start: 35px;
+    float: left;
+} */
+
+.distancespace{
+    display: flex;
+    justify-content: space-between;
+    flex: 1 1 auto;
+}
+/* 
+.card-container4{
+    /*  not needed styles to reflect it */ 
+    /* background: blue;
+    padding: 10px;
+    color: white;
+    width: 500px;
+  
+    /* needed styles below */
+    /* display: flex;
+    justify-content: space-between; */ 
+
+/* 
+    background: #000000; */
+    /* padding: 87px; */
+    /* color: white; */
+    /* width: 571px; */
+    /* display: flex; */
+    /* height: 325px; */
+    /* justify-content: center; */
+  /* }  */
+
+
+
+
+
+
+
+
+
+  .spacserforlink{
+    /* display: flex;
+    justify-content: space-between;
+    flex: 1 1 auto; */
+    margin-block-start: 225px;
+  }
+  /* .fa-twitter {
+    background: #55ACEE;
+    color: white;
+  } */
+
+  .fa {
+    /* padding: 20px; */
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+  }
+
+  .fa:hover {
+    opacity: 0.7;
+}
+
+.shiftleft{
+    margin-inline-start: 184px;
+}

@@ -1,0 +1,63 @@
+.list-group-item:hover {
+  color:#ff7f50;
+
+  }
+
+  .headingfont{
+      margin-block-start: 47px;
+      padding-inline-start: 73px;
+      
+      font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+font-size:
+46px
+  }
+
+  [data-letters]:before {
+      content:attr(data-letters);
+      display:inline-block;
+      font-size:1em;
+      width:2.5em;
+      height:2.5em;
+      line-height:2.5em;
+      text-align:center;
+      border-radius:50%;
+      background:plum;
+      vertical-align:middle;
+      margin-right:1em;
+      color:white;
+      word-spacing: 1px;
+      }
+    
+      .initialanddate{
+          padding-inline-start: 79px;
+      }
+      /* .example-header-image {
+          background-image: url('https://material.angular.io/assets/img/examples/shiba1.jpg');
+          background-size: cover;
+        } */
+        
+        .mat-card-header .mat-card-subtitle:not(:first-child) {
+          margin-top: 24px;
+          margin-inline-start: 73px;
+      }
+
+      .mat-card-header .mat-card-title {
+          /* margin-bottom: 12px; */
+          margin-inline-start: 75px;
+          margin-top: 48px;
+      }
+     
+      .mat-card {
+          transition: box-shadow 280ms cubic-bezier(0.4, 0, 0.2, 1);
+          display: block;
+          position: relative;
+          padding: 52px;
+          border-radius: 3px;
+      }
+      .mat-card-header-text {
+          margin: 69px 16px;
+      }
+      .list:hover {
+        font-weight: bold;
+        background-color: coral;
+      }
