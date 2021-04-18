@@ -8,4 +8,14 @@ Hello Buddy.. You want to make your own blog sites... Let's start ...
 4. Go to http://localhost:4200 and Explore it.
 
 ##Dashboard Screenshot
+
 1) ![image](https://github.com/mahajanshrikant/BlogSite/blob/main/Dexitery.comDashbaord.JPG)
+
+2) ![image](https://github.com/mahajanshrikant/BlogSite/blob/main/Dashbaord2.JPG) 
+
+3) ![image]( https://github.com/mahajanshrikant/BlogSite/blob/main/DashBoard3.JPG) 
+4) ![image]( https://github.com/mahajanshrikant/BlogSite/blob/main/FreshersTab.JPG) 
+5) ![image]( https://github.com/mahajanshrikant/BlogSite/blob/main/SpringBoot.JPG) 
+
+5) ![image]( https://github.com/mahajanshrikant/BlogSite/blob/main/java.JPG) 
+6) ![image]( https://github.com/mahajanshrikant/BlogSite/blob/main/Angular.JPG) 
